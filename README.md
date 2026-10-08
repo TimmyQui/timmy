@@ -63,11 +63,11 @@
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Negraqui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyQui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Negraqui&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyQui&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Negraqui&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=TimmyQui&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -76,9 +76,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timor-yuksel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timoryuksel@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://timmyqui.github.io/timor-yuksel.github.io/)
 
 </div>
 
@@ -88,6 +88,6 @@
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Negraqui&color=58a6ff&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=TimmyQui&color=58a6ff&style=flat-square)
 
 </div>
